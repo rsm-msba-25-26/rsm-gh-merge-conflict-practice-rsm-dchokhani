@@ -29,7 +29,7 @@ After `cloning` the assignment you should make two commits:
 
 ---
 
-Your name: Divij Date: <insert-the-date-here>
+Your name: Divij Date: 07-27-2025
 
 ---
 
